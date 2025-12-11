@@ -1,14 +1,25 @@
 # CocoSalesDWH
 A practical roadmap for creating a modern data warehouse in SQL Server, integrating ETL processes, robust data models, and advanced analytics.
 
-# 📊 Data Warehouse & Analytics Project
+
+## 🔔 Notice  
+
+This project is a **learning and portfolio adaptation**.  
+For the **original full project**, please visit 👉  
+🌐 [DataWithBaraa/sql-data-warehouse-project](https://github.com/DataWithBaraa/sql-data-warehouse-project/tree/main)  
+
+All credit goes to **DataWithBaraa** 🙌  
+This repository is meant for **practice, study, and demonstration purposes** only. 🚀
+
+
+# 🏛️ Data Warehouse & Analytics Project
 
 Welcome to the **Data Warehouse & Analytics Project repository** 🚀  
 This portfolio project showcases a complete data warehousing and analytics solution — from raw data ingestion to actionable insights. It highlights **industry best practices** in data engineering, ETL, modeling, and reporting.
 
 ---
 
-## 🏗️ Data Architecture (Medallion Layers)
+## 📐 Data Architecture (Medallion Layers)
 
 - **Bronze Layer**: Raw data ingested directly from ERP and CRM CSV files into SQL Server.  
 - **Silver Layer**: Cleansed, standardized, and normalized datasets prepared for analysis.  
@@ -52,7 +63,7 @@ All resources are **free to use**:
 
 ---
 
-## 🚀 Project Requirements
+## 🖊️ Project Requirements
 
 ### Objective (Data Engineering)
 - Build a modern SQL Server warehouse consolidating ERP & CRM sales data.  
